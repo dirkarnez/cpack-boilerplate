@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 
-project(cpack-boilerplate)
+project(cpack-cmake-boilerplate)
 
 set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -static")
 
